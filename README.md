@@ -40,8 +40,7 @@ Gitの初期化は　`git init` と入力します
 
 画像貼り付け
 
-![戦車](https://drive.google.com/file/d/0B0J0KWJTdFKvSVZlVTFyZEZWNm8/view?usp=sharing&resourcekey=0-ZVL06D88bGmdQJDxC1taaA)
-
+![戦車](https://www.dropbox.com/s/mit0w9gobfw1184/%E6%94%BF%E6%B2%BB%20%E3%81%A8%E3%81%A0%E3%82%8C%E3%81%8B.jpg?dl=0)
 
 
 
