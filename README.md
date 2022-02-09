@@ -30,13 +30,30 @@ Gitの初期化は　`git init` と入力します
   2. child2
   3. child3
 - list2
-  -  mago1
-  -  mago2
-  -  mago3
+  - mago1
+  - mago2
+  - mago3
     -  himago1
     -  himago2
     -  himago3
 - list3
 
 画像貼り付け
-![戦車]("https://rikuzi-chousadan.com/soubihin/sensya/10mbt/10tk_33.jpg")
+
+![戦車](https://drive.google.com/file/d/0B0J0KWJTdFKvSVZlVTFyZEZWNm8/view?usp=sharing&resourcekey=0-ZVL06D88bGmdQJDxC1taaA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
